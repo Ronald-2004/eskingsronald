@@ -1,36 +1,53 @@
-# KingsRonald
-Personal GitHub portfolio of E.S. Kings Ronald focused on robotics, AI, and autonomous systems.
 # 👋 Hi, I'm E.S. Kings Ronald
 
-🤖 Aspiring Robotics Engineer  
-🇯🇵 Goal: Master's in Robotics in Japan  
+🤖 Robotics Engineer | AI & Autonomous Systems  
+🇯🇵 Aspiring Master's Student in Robotics (Japan)
 
 ---
 
 ## 🚀 About Me
-I am passionate about building intelligent robotic systems and learning advanced technologies like autonomous navigation, computer vision, and control systems.
+I am passionate about building intelligent robotic systems by combining computer vision, control systems, and AI.  
+My goal is to develop real-world autonomous systems for future robotics applications.
 
 ---
 
-## 🛠️ Skills
-- Python 
-- OpenCV (learning)  
-- ROS2 (learning)  
+## 🛠️ Technical Skills
+- **Programming:** Python, C++  
+- **Robotics:** ROS2 (learning), Gazebo  
+- **Computer Vision:** OpenCV, YOLO  
+- **AI/ML:** PyTorch (learning)  
+- **Embedded Systems:** Arduino (if applicable)
 
 ---
 
-## 📌 Projects
-🚧 Currently building robotics projects — stay tuned!
+## 📌 Featured Projects
+
+### 🔹 Real-Time Object Detection System
+- Built using YOLOv8 and OpenCV  
+- Performs real-time detection using webcam  
+- Application in robotic vision systems  
+
+👉 (Add your GitHub project link here)
 
 ---
 
 ## 🎯 Current Focus
-- Learning robotics fundamentals  
-- Building real-world projects  
-- Preparing for higher studies in Japan  
+- ROS2 & Autonomous Navigation  
+- SLAM & Mapping Systems  
+- Robotics Control Systems  
+
+---
+
+## 📊 GitHub Stats
+(Add later — I’ll help you)
 
 ---
 
 ## 📫 Contact
-- Email: ronald16122004@gmail.com
-- LinkedIn: 
+- Email: your email  
+- LinkedIn: your link  
+
+---
+
+## ⚡ Vision
+*"I aim to build robots that perceive, think, and act intelligently in real-world environments."*
