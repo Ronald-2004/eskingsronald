@@ -13,8 +13,7 @@ I am passionate about building intelligent robotic systems and learning advanced
 ---
 
 ## 🛠️ Skills
-- Python  
-- C++  
+- Python 
 - OpenCV (learning)  
 - ROS2 (learning)  
 
@@ -33,5 +32,5 @@ I am passionate about building intelligent robotic systems and learning advanced
 ---
 
 ## 📫 Contact
-- Email: your email here  
-- LinkedIn: your link here  
+- Email: ronald16122004@gmail.com
+- LinkedIn: 
