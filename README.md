@@ -26,9 +26,8 @@ My goal is to develop real-world autonomous systems for future robotics applicat
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)[where i have to add this content]
+![Solidworks](https://img.shields.io/badge/Solidworks-5C3EE8?style=for-the-badge&logo=Solidworks&logoColor=white)
 ---
 
 ## 📌 Featured Projects
