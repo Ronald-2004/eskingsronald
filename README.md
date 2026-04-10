@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Robotics+Engineer;AI+Systems;Future+Innovator)
 # 👋 Hi, I'm E.S. Kings Ronald
 
 🤖 Robotics Engineer | AI & Autonomous Systems  
