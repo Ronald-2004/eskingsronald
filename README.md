@@ -17,18 +17,14 @@ My goal is to develop real-world autonomous systems for future robotics applicat
 ---
 
 ## 🛠️ Technical Skills
-- **Programming:** Python, C++  
+- **Programming:** Python
 - **Robotics:** ROS2 (learning), Gazebo  
 - **Computer Vision:** OpenCV, YOLO  
-- **AI/ML:** PyTorch (learning)  
-- **Embedded Systems:** Arduino (if applicable)
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Solidworks](https://img.shields.io/badge/Solidworks-5C3EE8?style=for-the-badge&logo=Solidworks&logoColor=white)
----
 
 ## 📌 Featured Projects
 
@@ -49,12 +45,12 @@ My goal is to develop real-world autonomous systems for future robotics applicat
 ---
 
 ## 📊 GitHub Stats
-(Add later — I’ll help you)
+
 
 ---
 
 ## 📫 Contact
-- Email: your email  
+- Email: ronald16122004@gmail.com 
 - LinkedIn: your link  
 
 ---
