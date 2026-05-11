@@ -47,7 +47,7 @@ My goal is to develop real-world autonomous systems for future robotics applicat
 
 ## 📫 Contact
 - Email: ronald16122004@gmail.com 
-- LinkedIn:
+- LinkedIn:linkedin.com/in/kings-ronald-8462aa1a1
 
 ---
 
