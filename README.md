@@ -2,14 +2,13 @@
 # 👋 Hi, I'm E.S. Kings Ronald
 
 🤖 Robotics Engineer | AI & Autonomous Systems  
-🇯🇵 Aspiring Master's Student in Robotics (Japan)
+ Aspiring Master's Student in Robotics (Japan)
 
 ---
 
 ## 🚀 About Me
 I am passionate about building intelligent robotic systems by combining computer vision, control systems, and AI.  
 My goal is to develop real-world autonomous systems for future robotics applications.
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
@@ -33,7 +32,7 @@ My goal is to develop real-world autonomous systems for future robotics applicat
 - Performs real-time detection using webcam  
 - Application in robotic vision systems  
 
-👉 (Add your GitHub project link here)
+
 
 ---
 
@@ -44,14 +43,11 @@ My goal is to develop real-world autonomous systems for future robotics applicat
 
 ---
 
-## 📊 GitHub Stats
-
-
 ---
 
 ## 📫 Contact
 - Email: ronald16122004@gmail.com 
-- LinkedIn: your link  
+- LinkedIn:
 
 ---
 
